@@ -1,0 +1,42 @@
+The Junior Database Administrator (Jr. DBA), under the supervision of the Senior DBA, performs tasks needed to administer Microsoft SQL Server databases. The Jr. DBA demonstrates clear communication skills, the ability to build strong relationships with team members and users, and excellent problem-solving skills. Possession of strong verbal and written communication skills is necessary.
+
+The Jr. DBA is expected to be familiar with the latest version of the database products and takes the appropriate vendor certifications to keep up with the latest technologies. The Jr. DBA will attend user groups, webinars, and conferences on a regular basis.
+• Support database administration:
+• Troubleshoot and resolve performance issues at the database, instance, and server levels in a production environment
+• Perform query and database performance tuning, schema design, capacity planning, and change control management tasks
+• Design, implement, and manage jobs for backup, re-indexing, database optimization, and related tasks
+• Manage security of database systems and maintain confidentiality per HIPAA and company requirements
+• Contribute to database design and code reviews with application development teams
+• Install and configure SQL Server according to defined standard operating procedures
+• Perform other tasks assigned by the Senior DBA
+• Flexible to work off-hours, including weekends and holidays, as required
+• Complete Individual Status Reports (ISRs)
+
+#DCI
+• Bachelors degree (preferably Computer Science/Information Systems) or equivalent work experience will be considered
+• Minimum 1-2 years of professional experience with Microsoft SQL Server databases
+• SQL Server administration experience should include:
+• Identifying and resolving performance issues and faults in a production environment
+• Implementing, monitoring, and fixing SQL Server Agent jobs
+• Performance tuning queries, indexes, and statistics, including execution plans
+• Maintaining database security
+• Reviewing database objects and T-SQL
+• Following standard operating procedures
+• Knowledge of Windows Server 2008-2016
+• Knowledge of SQL Server configuration in a virtualized environment
+• Knowledge of SQL Server Reporting Services (SSRS) and Integration Services (SSIS)
+
+Other Skills/Abilities (preferred, Not Required)
+• PowerShell and process automation
+• Experience using dbatools PowerShell module
+• Knowledge of data warehouse design and implementation best practices, especially the Kimball methodology
+• Knowledge of HIPAA compliance requirements as it pertains to database administration
+
+DCI is a federal contractor and an Equal Opportunity/Affirmative Action Employer-Veterans/Individuals with Disabilities. If you are having difficulty using the online application system or would like to request other accommodations or application methods, please contact Doug Patterson at Accommodations@dciinc.org or 615-327-3061. Once a request has been made, DCI will initiate a discussion with you about your needs and whether an accommodation can be provided. DCI is committed to providing such accommodations where possible.
+
+For More Information About Equal Opportunity Please See
+
+https://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf;
+https://www.dol.gov/ofccp/regs/compliance/posters/pdf/OFCCP_EEO_Supplement_Final_JRF_QA_508c.pdf;
+https://www.dol.gov/ofccp/pdf/pay-transp_formattedESQA508c.pdf; and
+https://www.nlrb.gov/sites/default/files/attachments/basic-page/node-3788/employeerightsposter-8-5x11.pdf
