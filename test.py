@@ -35,7 +35,7 @@ try:
         if row["name"] in key_list:
             addToScore(row["name"], 15 * points[row["name"]])
         score = 2
-        for i in range(1, 1):
+        for i in range(1, 5):
             addToScore(row["related_" + str(i)], score)
             score -= 1
 
